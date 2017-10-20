@@ -21,7 +21,7 @@
         "type": "git"
     },
     "bugs": {
-        "url": "https://github.com/bitpay/bitcore-wallet-client/issues"
+        "url": "https://github.com/bitchk-wallet/bitcore-wallet-client/issues"
     },
     "dependencies": {
         "async": "^0.9.0",
