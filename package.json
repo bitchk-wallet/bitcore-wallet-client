@@ -31,13 +31,12 @@
         "bitcore-mnemonic": "https://github.com/bitchk-wallet/bitcore-mnemonic.git",
         "bitcore-payment-protocol": "https://github.com/bitchk-wallet/bitcore-payment-protocol.git",
         "json-stable-stringify": "^1.0.0",
-        "lodash": "^4.17.4",
+        "lodash": "=3.10.1",
         "preconditions": "^1.0.8",
         "sjcl": "1.0.3",
         "superagent": "^3.4.1"
     },
     "devDependencies": {
-        "bitcore-wallet-service": "https://github.com/bitchk-wallet/bitcore-wallet-service.git",
         "browserify": "^13.1.0",
         "chai": "^1.9.1",
         "coveralls": "^2.11.2",
